@@ -4,4 +4,5 @@
 >
 > - 在线访问：https://tnotesjs.github.io/TNotes/
 > - tnotesjs 组织：https://github.com/tnotesjs/
+> - Bibili：https://space.bilibili.com/407241004
 
